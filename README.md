@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I am Mehmet Talha Şeker</h1>
 <h3 align="center">A Backend Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **NodeJS, Mongoose, MongoDB,**
+- 🔭 I'm currently working on the following in my professional career **Go, Echo-Framework, Firebase-Auth, Firebase-Messaging-Client, Firebase-Notification, Firebase-Storage, MongoDB, MongoAtlas, GinkGo, Gomega, Docker**
 
-- 💬 Ask me about **Java, Spring-Boot**
+- Also working with(occasionally) **Next.js, Redux-Toolkit, TailwindCSS**
+
+- 🌱 I’m currently learning **TypeScript, LoopBack, Postgres**
+
+- 💬 Ask me about **Go, Echo-Framework, MongoDB, Firebase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
