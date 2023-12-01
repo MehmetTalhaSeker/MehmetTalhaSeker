@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on the following in my professional career **Go, Echo-Framework, Firebase-Auth, Firebase-Messaging-Client, Firebase-Notification, Firebase-Storage, MongoDB, MongoAtlas, GinkGo, Gomega, Docker**
 
-- Also working with(occasionally) **Next.js, Redux-Toolkit, TailwindCSS**
-
-- 🌱 I’m currently learning **TypeScript, LoopBack, Postgres**
+- Also working with **Next.js, Redux-Toolkit, TailwindCSS**
 
 - 💬 Ask me about **Go, Echo-Framework, MongoDB, Firebase**
 
